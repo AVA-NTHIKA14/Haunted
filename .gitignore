@@ -1,0 +1,14 @@
+# Ollama model storage (kept on D: drive)
+ollamamodels/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Haunting report output
+haunting.html
